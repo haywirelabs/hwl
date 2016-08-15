@@ -1,0 +1,19 @@
+{
+  "name": "hwl",
+  "version": "0.0.1",
+  "description": "Application for viewing resume content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haywirelabs/hwl.git"
+  },
+  "author": "Joe Osborne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haywirelabs/hwl/issues"
+  },
+  "homepage": "https://github.com/haywirelabs/hwl#readme"
+}
