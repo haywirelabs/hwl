@@ -2,7 +2,7 @@ Joe Osborne Jr.
 ============
 
 ---------------------------     ----------------------------
-128 Maiden Choice Lane              josborne@haywirelabs.com
+128 Maiden Choice Lane                   joe@haywirelabs.com
 Catonsville, Maryland 21228
 United States                                  (410)709-8665
 ---------------------------     ----------------------------
@@ -29,7 +29,15 @@ September 2015 - August 2016
 Bethesda.net
 Rockville, Maryland
 
-Responsibilities include providing technical leadership for front-end developers including internal and vendor teams across the world.  Defined technical implementations with team members and helped provide guidance for developer concerns.  Worked across functional teams to help facilitate best practices.  Worked to inspire team members to define data-driven and customer-focused initiatives to improve business decisions and derive more satisfied customers.
+* Provide technical leadership for front-end developers including international internal and vendor teams.
+* Defined technical implementations based on feature designs
+* Provide guidance for developer concerns
+* Develop and facilitate best practices across functional teams
+  * Code Reviews
+  * Technical Documentation
+* Inspire team members to define data-driven and customer-focused initiatives
+  * Improve business decisions with data
+  * Derive more satisfied customers.
 
 **Product Owner**
 February 2015 - September 2015
@@ -191,3 +199,4 @@ Development Styles
   * Waterfall Development
   * Agile
   * RAD
+stea
