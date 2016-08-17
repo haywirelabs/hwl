@@ -41,10 +41,11 @@ _Responsibilities_
 
 * Define the context and intent for the Bethesda.net Web front-end systems from concept to launch
 * Act as the business point-of-contact for web initiatives and projects
-* Decision-maker regarding product design and development processes
 * Interact with company stakeholders to define business requirements for purposes of implementation into feature development
 * Manage internal and external design and development resources to develop multiple ongoing initiatives
-    * Contracts
+    * contracts negotiation
+    * resource management and allocation
+* Decision-maker regarding product design and development processes
 
 _Achievements_
 
@@ -69,7 +70,8 @@ _Achievements_
 
 * Develop CMS proof-of-concept demonstrations and report on findings
 * Improve internal development practices
-    * process review
+    * process review and analysis
+    * release management process
 * Organize developer community events to share and improve team knowledge
 
 **Senior Technical Consultant**
@@ -109,7 +111,8 @@ _Responsibilities_
 _Achievements_
 
 * Managing Drupal in a high-scale, high-visibility public space.
-    * layered caching
+    * layered caching solutions
+    * planning ahead for the cloud
 * Upgraded all version control systems from CVS to Git
 * Reorganized version baselining procedures
 * Document management and presentation with Drupal
@@ -222,7 +225,7 @@ _Achievements_
 Technical Experience
 --------------------
 
-**Languages**
+**Business Logic Languages**
   * Javascript / Node.js / NPM
   * Python
   * PHP
