@@ -15,22 +15,21 @@ September 2015 - August 2016
 Bethesda.net
 Rockville, Maryland
 
-Responsibilities
+_Responsibilities_
 
-* Provide technical leadership for front-end developers including international internal and vendor teams.
+* Provide technical leadership for front-end developers including international, internal, and vendor teams
 * Define technical implementations based on feature designs
 * Provide guidance for developer concerns
 * Develop and facilitate best practices across functional teams
   ** Code Reviews
   ** Technical Documentation
 * Inspire team members to define data-driven and customer-focused initiatives
-  ** Improve business decisions with data-driven processes
 
-Achievements
+_Achievements_
 
-* Marketing Solutions
+* Marketing Solutions across multiple brands
 * Accounts and single sign-on
-* Mods
+* Mods - Bringing Fallout 4 User Generated Content to the console experience
 * Community
 
 **Product Owner**
@@ -38,7 +37,7 @@ February 2015 - September 2015
 Bethesda.net
 Rockville, Maryland
 
-Responsibilities
+_Responsibilities_
 
 * Define the context and intent for the Bethesda.net Web front-end systems from concept to launch
 * Act as the business point-of-contact for web initiatives and projects
@@ -47,24 +46,26 @@ Responsibilities
 * Manage internal and external design and development resources to develop multiple ongoing initiatives
   ** Contracts
 
-Achievements
+_Achievements_
 
 * Infrastructure for a new business entity
 * Identification and Documentation of product needs and dependencies
 * Product Integration across functional components
 * Product Launch and cadence production
+* Javascript Single Page Applications (SPA) in the enterprise environment
 
 **Senior Software Engineer**
 July 2014 - February 2015
 Zenimax Online Studios
 Hunt Valley, Maryland
 
-Responsibilities
+_Responsibilities_
 
-* Engineer and develop on the Elder Scrolls Online community website.
-* Research and develop options for custom Enterprise Content Management Solutions.
+* Engineer and develop on the Elder Scrolls Online community website
+* Research and develop options for custom Enterprise Content Management Solutions
+* Present web technology solutions to leadership and game teams
 
-Achievements
+_Achievements_
 
 * Develop CMS proof-of-concept demonstrations and report on findings
 * Improve internal development practices
@@ -76,96 +77,152 @@ May 2012 - July 2014
 Aquilent
 Laurel, Maryland
 
-Continuous Integration Lead and Developer for CMS (Centers for Medicare & Medicaid Services) LEARN project.  Acted as point-of-contact regarding Continuous Integration, Automated Testing, Application Deployment and Technical Security issues. Performed Development work on supporting projects on an ad hoc basis.
+_Responsibilities_
 
-Software Architect and Developer on Aquilent Olympus product from concept to V1.0 release.  Worked with a small team of stakeholders to identify and design UI and functionality solutions for managing government-industry AWS (Amazon Web Services) environments on a simple, secure and flexible web-based portal.
+* Lead Continuous Integration team for Centers for Medicare & Medicaid Services (CMS) Healthcare.gov LEARN project
+* Act as point-of-contact regarding Continuous Integration, Automated Testing, Application Deployment, and Technical Security issues
+* Develop on supporting projects on an ad hoc basis
+* Software architecture, design and development on the Aquilent Olympus product from concept to V1.0 release
+* Work with stakeholders to identify UI and functional solutions for managing government-industry Cloud environments, focusing on Amazon Web Services (AWS)
+* Systems analysis and development for Medicaid.gov.
 
-Performed System Analysis, Development, Architectural Support for Medicaid.gov. Development and technical support for several versions of the product including global redesign/retemplating efforts, implementation of structured content within page designs, and custom modular content. Technical and organizational support for migration efforts between Rhythmyx Percussion CMS environments.
+_Achievements_
+
+* Healthcare.gov - Year one enrollment
+* Healthcare.gov - Automated testing and deployment for front-end applications
+* Olympus - Government cloud at the FDA
+* Medicaid.gov - Rhythmyx Percussion and managing policy document content
 
 **Senior Developer/Architect**
 February 2011 - March, 2013
 ActioNet, Inc.
 Washington, DC
 
-Senior Developer / Architect on www.ED.gov LAMP systems including technical systems analysis and design of major system versions. Performed previous major systems server structural and diagnostic reviews across development tier environments, development workflow procedural reviews, and in depth code diagnostic analysis. Architected and presented hardware and software version upgrade suggestions to federal client for procurement and acquisition.
-Performed Analysis / Data Interpretation / Solution design implementation and deployment for major version system issues and concerns. Organized and implemented layered cacheing structures to alleviate enterprise level scalability concerns across clustered application and master / slave database environments. Reviewed and streamlined developer SOPs including updating version control from CVS to Git and reorganization of version baselining procedures. Created ROM and LOE estimates for federal projects. Delegated technical work to teammates and provided support for developer concerns and issues.
-Other custom code development efforts include: Custom tagcloud module based on taxonomy and OG group views and panels. DMS in Drupal: Relational hierarchical data structure and customized jQuery sortable/filterable tables for public presentation and accessibility with heavy focus on accessibility and javascript keyboard controls. Custom Archiving functionality in Drupal: Client-defined node archiving functionality. GSA integration, Node / Block creation and edit, Form creation and edit, Drupal CCK content fields, configuration / admin form, customized contrib modules.
+_Responsibilities_
+
+* LAMP Architecture and development for www.ed.gov and supporting systems
+* Technical systems analysis and design of major system versions
+* Development Process improvement
+* Architect and present hardware and software suggestions to federal client
+* Provide support for developer concerns and issues
+
+_Achievements_
+
+* Managing Drupal in a high scale, high visibility public space.
+** Layered Cacheing
+* Upgraded all version control systems from CVS to Git
+* Reorganized version baselining procedures
+* Document Management and Presentation with Drupal
+* Custom archiving features
 
 **Web Applications Developer**
 August 2010 - February 2011
 Systems Alliance, Inc.
 Hunt Valley, Maryland
 
-End-to-end custom web application development on custom-built Coldfusion/Java-backed Enterprise level CMS. Clients include a range of Enterprise level clients across corporate retail and higher education clients.
-Projects include various client-requested custom functionality to extend on SiteExecutive CMS functionality or provide additional functionality not currently available within the context of the system.
-Helped with determining client requirements based on client and PM interactions.
-Research and conduct all aspects of technical feasibility, analysis and requirements gathering including hardware/software analysis, user interviews to determine project requirements, and offer professional solutions concerning project adjustments and changes.
-Web application development and programming using Coldfusion, Java, Javascript, HTML/XHTML,XML/XSLT, and CSS
-MS SQL database management including indices creation.
+_Responsibilities_
+
+* Custom web application development on custom-built Coldfusion/Java-backed Enterprise CMS.
+* End-to-end SiteExecutive CMS Development
+* Conduct stakeholder interviews to identify needs
+
+_Achievements_
+
+* Walmart and Sam's Club - Standard Operating Procedure design and development
+* AMU/APU - Managing scale with page performance
+* Johns Hopkins' physicians guide
+* Mount St. Mary's University design
+* Flagler College design
 
 **Web Projects Manager/Senior Web Developer**
 August 2008 - June 2010
 Inside Lacrosse Magazine/American City Business Journals
 Baltimore, Maryland
 
-Drupal-based CMS development from concept to launch, including project feasibility, analysis, development, data migration, systems integration and consolidation, implementation, documentation, scheduling, user training, GUI and SEO design, and maintenance. Project requirements included custom content type development, module and hook development, and software architecture design.
-Custom code development for PHP-based video player website working through multiple API frameworks.
-Custom mobile website development.
-Designed and Implemented core Project Management and development process for all web-based corporate properties, including project requirement development, scheduling and implementation procedures.
-Project Manager for Single Sign-On (SSO) solution for all IL web properties.
-Project Manager for Ruby/Rails based Social Network based on LovdByLess
-Development, maintenance and systems administration for multiple web properties utilizing varying frameworks including Wordpress, vBulletin, Coldfusion, PureEdit, Kohana, vBulletin and CodeIgniter MVC.
-Data management and migration utilizing MySQL and MS SQL database systems.
-Contract management for multiple simultaneously developed integrated systems, including milestone generation, scheduling, systems architecture, technical review and expectations management.
-Server and systems management on various Linux, Mac and Microsoft OS based platforms.
+_Responsibilities_
+
+* Drupal-based CMS development from concept to launch, including project feasibility, analysis, development, data migration, systems integration, and consolidation
+* Implementation, documentation, scheduling, user training
+* GUI and SEO design
+* Project management for all web-based corporate products.
+** requirements
+** scheduling
+** milestone production
+* Systems architecture including AWS cloud proof-of-concept
+
+_Achievements_
+
+* Consolidation of multiple brands into a single front-end
+* Single Sign-On solution for web brands
+* Mobile front-end launch
+* Social network launch
+* Custom video player via API frameworks
 
 **Webmaster/Web Programmer**
 February 2008 - August 2008
 Earth Resources Technology/National Oceanic and Atmospheric Administration
 Silver Spring, Maryland
 
-Project: Convert JSP web application environment to PHP web application environment.
-Responsible for all aspects of the SDLC including feasibility, analysis, design, development, testing, implementation and maintenance.
-Produce and retain documentation concerning all project aspects and changes.
-Research and conduct all aspects of feasibility, analysis and requirements gathering including hardware/software analysis, user interviews to determine project requirements, and offer professional solutions concerning project adjustments and changes.
-Web application development and programming using PHP, Javascript, HTML/XHTML and CSS.
-PostgreSQL database management.
-Apache web server design, configuration and management.
+_Responsibilities_
+
+* Convert experimental JSP web application from early 1990s to an operational PHP web application
+* Responsibilities include all aspects of SDLC including feasibility, analysis, design, development, testing, implementation and maintenance
+* Produce and maintain documentation concerning all project aspects
+* Hardware and software analysis
+* User interviews
+* Web application development with PHP, Javascript, HTML/XHTML and CSS
+* Database design and management
+* Apache web server design, configuration and management
+
+_Achievements_
+
+* National Weather Service (NWS) Hazcollect Project Launch
+* NOAA/FAA Wind Speeds Project
 
 **IT Specialist/Web Application Development**
 November 2006 - February 2008
 Structural Systems, Inc.
 Thurmont, Maryland
 
-Responsible for all aspects of the SDLC including feasibility, analysis, design, development, testing, implementation and maintenance.
-Project feasibility and analysis with focus on streamlining company procedures and centralizing data.
-Conduct user interviews to determine project requirements.
-Web application development and programming using PHP, Javascript, HTML/XHTML and CSS.
-MSSQL and mySQL database management.
-Apache web server management and implementation.
-Responsible for management, design and implementation of change requests and maintenance after implementation.
-Responsible for day-to-day operational IT systems availability and maintenance.
-Daily interaction and communication with end-users and provide on-site support to any and all additional technical issues.
+_Responsibilities_
+
+* Responsible for all aspects of the SDLC including feasibility, analysis, design, development, testing, implementation and maintenance
+* Project feasibility and analysis with focus on streamlining company procedures and centralizing data
+* Conduct user interviews to determine project requirements
+* End-to-end web application development
+* Responsible for management, design and implementation of change requests and maintenance after implementation
+* Responsible for day-to-day operational IT systems availability and maintenance
+* Daily interaction and communication with end-users and provide on-site support to any and all additional technical issues
+
+_Achievements_
+
+* Enterprise Resource Planning Launch
+* Conversion of quoting solutions from excel to web-based
 
 **Technical Support Analyst**
 January 1999 - November 2006
 EPCGlobal/Bechtel Personnel and Operational Services
 
-One of a two person team covering global Technical Support and Systems Administration from India to San Francisco. Frequent travel plus 24/7/365 phone support.
-Responsible for day-to-day IT systems availability and maintenance worldwide, purchasing and vendor management as well as setup of new sites.
-Corporate Intranet development, administration and management.
-Provide localized database maintenance including localized Access db tracking, database creation and maintenance.
-Administrate web-based recruiting modules including client presentation, end-user training, development, end-user communications, account creation, error resolution, quality control, as well as any other maintenance roles.
-Write and update training module documentation for users of multiple systems as well as provide personal training to incoming end-users.
-Create hardware infrastructure design specifications, purchase, implementation and maintenance.
-Participate, in both an individual and team role, in several systems analysis and development projects in various roles and segments of the SDLC.
-Act in a general help desk role with proactive problem solving and time sensitive resolution
-Daily interaction and communication with end-users and provide on-site support to any and all additional technical issues.
+_Responsibilities_
+
+* One of a two person team covering global Technical Support and Systems Administration from India to San Francisco
+* Frequent travel plus 24/7/365 phone support
+* Responsible for day-to-day IT systems availability and maintenance worldwide, purchasing and vendor management
+* Setup new office sites
+* Corporate Intranet development, administration and management
+* Create hardware infrastructure design specifications, purchase, implementation and maintenance
+* Proactive problem solving and time sensitive resolution
+
+_Achievements_
+
+* New offices planned and brought online: San Francisco, CA, Frederick, MD, Denver, CO, Dallas, TX
+* VoIP solutions for all international offices
+* EPCjobs.com launch
 
 Technical Experience
 --------------------
 
-Business Logic Languages
+**Business Logic Languages**
   * Node.js
   * Python
   * PHP
@@ -173,8 +230,8 @@ Business Logic Languages
   * Ruby
   * Java / JSP
 
-Web Frameworks
-  * Node.js
+**Web Frameworks and Libraries**
+  * Riot.js
   * Yeoman.js
   * Laravel
   * Jekyll
@@ -187,7 +244,7 @@ Web Frameworks
   * vBulletin
   * Kohana
 
-Presentation Languages
+**Presentation Languages**
   * HTML / XHTML
   * XML / XSLT
   * CSS
@@ -195,25 +252,25 @@ Presentation Languages
   * jQuery
   * Backbone.js
 
-Databases
+**Databases**
   * SQL
   * MySQL
   * MS SQL
   * PostgreSQL
   * Sqlite3
 
-Web Servers
+**Web Servers**
   * Apache Web Server
   * IIS
   * Mongrel
   * nginx
   * express
 
-Source / Version Control
+**Source / Version Control**
   * Subversion
   * Git
 
-Development Styles
+**Development Styles**
   * Waterfall Development
   * Agile
   * RAD
