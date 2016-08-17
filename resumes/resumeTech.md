@@ -1,25 +1,11 @@
-Joe Osborne Jr.
-============
+Joe Osborne Jr
+==============
 
----------------------------     ----------------------------
-128 Maiden Choice Lane                   joe@haywirelabs.com
+---------------------------                         ----------------------------
+128 Maiden Choice Lane                                       joe@haywirelabs.com
 Catonsville, Maryland 21228
-United States                                  (410)709-8665
----------------------------     ----------------------------
-
-Education
----------
-
-August 2006
-:   **BSc, Information Systems**; University of Phoenix (online)
-
-    *3.74 GPA*
-
-December 2003
-:   **AA, History / General Studies**; Frederick Community College (Frederick, Maryland)
-
-May 1996
-:   **Diploma**; Governor Thomas Johnson High School (Frederick, Maryland)
+United States                                                      (410)709-8665
+---------------------------                         ----------------------------
 
 Experience
 ----------
@@ -29,29 +15,61 @@ September 2015 - August 2016
 Bethesda.net
 Rockville, Maryland
 
+Responsibilities
+
 * Provide technical leadership for front-end developers including international internal and vendor teams.
-* Defined technical implementations based on feature designs
+* Define technical implementations based on feature designs
 * Provide guidance for developer concerns
 * Develop and facilitate best practices across functional teams
-  * Code Reviews
-  * Technical Documentation
+  ** Code Reviews
+  ** Technical Documentation
 * Inspire team members to define data-driven and customer-focused initiatives
-  * Improve business decisions with data
-  * Derive more satisfied customers.
+  ** Improve business decisions with data-driven processes
+
+Achievements
+
+* Marketing Solutions
+* Accounts and single sign-on
+* Mods
+* Community
 
 **Product Owner**
 February 2015 - September 2015
 Bethesda.net
 Rockville, Maryland
 
-Responsible for the initial build-out of the Bethesda.net Web front-end systems from concept to launch.  Acted as the business point-of-contact for all web initiatives and projects.  Acted as decision-maker regarding product design and development processes.  Interacted with company stakeholders to define business requirements for purposes of feature development.  Managed multiple internal and vendor teams to develop multiple front-end components including support for marketing, community, and studio initiatives.
+Responsibilities
+
+* Define the context and intent for the Bethesda.net Web front-end systems from concept to launch
+* Act as the business point-of-contact for web initiatives and projects
+* Decision-maker regarding product design and development processes
+* Interact with company stakeholders to define business requirements for purposes of implementation into feature development
+* Manage internal and external design and development resources to develop multiple ongoing initiatives
+  ** Contracts
+
+Achievements
+
+* Infrastructure for a new business entity
+* Identification and Documentation of product needs and dependencies
+* Product Integration across functional components
+* Product Launch and cadence production
 
 **Senior Software Engineer**
 July 2014 - February 2015
 Zenimax Online Studios
 Hunt Valley, Maryland
 
-Responsible for engineering and development work on the Elder Scrolls Online community website along with research and development work into custom Enterprise Content Management solutions.  Developed proof-of-concept work which would evolve into implemented solutions for expansion into Bethesda.net platform expansion.  Worked heavily to improve internal development practices including process review and improvement, organized developer community functions to share and improve team knowledge.
+Responsibilities
+
+* Engineer and develop on the Elder Scrolls Online community website.
+* Research and develop options for custom Enterprise Content Management Solutions.
+
+Achievements
+
+* Develop CMS proof-of-concept demonstrations and report on findings
+* Improve internal development practices
+** process review
+* Organize developer community events to share and improve team knowledge
 
 **Senior Technical Consultant**
 May 2012 - July 2014
@@ -199,4 +217,15 @@ Development Styles
   * Waterfall Development
   * Agile
   * RAD
-stea
+
+Education
+---------
+
+August 2006
+:   **BSc, Information Systems**; University of Phoenix (online)
+
+December 2003
+:   **AA, History / General Studies**; Frederick Community College (Frederick, Maryland)
+
+May 1996
+:   **Diploma**; Governor Thomas Johnson High School (Frederick, Maryland)
