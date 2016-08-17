@@ -4,7 +4,7 @@ Joe Osborne Jr
 ---------------------------                         ----------------------------
 128 Maiden Choice Lane                                       joe@haywirelabs.com
 Catonsville, Maryland 21228
-United States                                                      (410)709-8665
+United States                                                     (410) 709-8665
 ---------------------------                         ----------------------------
 
 Experience
@@ -21,8 +21,8 @@ _Responsibilities_
 * Define technical implementations based on feature designs
 * Provide guidance for developer concerns
 * Develop and facilitate best practices across functional teams
-  ** Code Reviews
-  ** Technical Documentation
+    * code reviews
+    * technical documentation
 * Inspire team members to define data-driven and customer-focused initiatives
 
 _Achievements_
@@ -44,14 +44,14 @@ _Responsibilities_
 * Decision-maker regarding product design and development processes
 * Interact with company stakeholders to define business requirements for purposes of implementation into feature development
 * Manage internal and external design and development resources to develop multiple ongoing initiatives
-  ** Contracts
+    * Contracts
 
 _Achievements_
 
 * Infrastructure for a new business entity
-* Identification and Documentation of product needs and dependencies
-* Product Integration across functional components
-* Product Launch and cadence production
+* Identification and documentation of product needs and dependencies
+* Product integration across functional components
+* Product launch and cadence production
 * Javascript Single Page Applications (SPA) in the enterprise environment
 
 **Senior Software Engineer**
@@ -69,7 +69,7 @@ _Achievements_
 
 * Develop CMS proof-of-concept demonstrations and report on findings
 * Improve internal development practices
-** process review
+    * process review
 * Organize developer community events to share and improve team knowledge
 
 **Senior Technical Consultant**
@@ -80,11 +80,11 @@ Laurel, Maryland
 _Responsibilities_
 
 * Lead Continuous Integration team for Centers for Medicare & Medicaid Services (CMS) Healthcare.gov LEARN project
-* Act as point-of-contact regarding Continuous Integration, Automated Testing, Application Deployment, and Technical Security issues
-* Develop on supporting projects on an ad hoc basis
+* Act as point-of-contact regarding Continuous Integration, automated testing, application deployment, and technical security issues
+* Development on supporting projects on an ad hoc basis
 * Software architecture, design and development on the Aquilent Olympus product from concept to V1.0 release
-* Work with stakeholders to identify UI and functional solutions for managing government-industry Cloud environments, focusing on Amazon Web Services (AWS)
-* Systems analysis and development for Medicaid.gov.
+* Work with stakeholders to identify User Interface (UI) and functional solutions for managing government-industry cloud environments, focusing on Amazon Web Services (AWS)
+* Systems analysis and development for Medicaid.gov
 
 _Achievements_
 
@@ -102,17 +102,17 @@ _Responsibilities_
 
 * LAMP Architecture and development for www.ed.gov and supporting systems
 * Technical systems analysis and design of major system versions
-* Development Process improvement
+* Development process improvement
 * Architect and present hardware and software suggestions to federal client
 * Provide support for developer concerns and issues
 
 _Achievements_
 
-* Managing Drupal in a high scale, high visibility public space.
-** Layered Cacheing
+* Managing Drupal in a high-scale, high-visibility public space.
+    * layered caching
 * Upgraded all version control systems from CVS to Git
 * Reorganized version baselining procedures
-* Document Management and Presentation with Drupal
+* Document management and presentation with Drupal
 * Custom archiving features
 
 **Web Applications Developer**
@@ -122,7 +122,7 @@ Hunt Valley, Maryland
 
 _Responsibilities_
 
-* Custom web application development on custom-built Coldfusion/Java-backed Enterprise CMS.
+* Custom web application development on custom-built Coldfusion/Java-backed Enterprise CMS
 * End-to-end SiteExecutive CMS Development
 * Conduct stakeholder interviews to identify needs
 
@@ -144,16 +144,16 @@ _Responsibilities_
 * Drupal-based CMS development from concept to launch, including project feasibility, analysis, development, data migration, systems integration, and consolidation
 * Implementation, documentation, scheduling, user training
 * GUI and SEO design
-* Project management for all web-based corporate products.
-** requirements
-** scheduling
-** milestone production
+* Project management for all web-based corporate products
+    * requirements
+    * scheduling
+    * milestone production
 * Systems architecture including AWS cloud proof-of-concept
 
 _Achievements_
 
 * Consolidation of multiple brands into a single front-end
-* Single Sign-On solution for web brands
+* Single sign-on solution for web brands
 * Mobile front-end launch
 * Social network launch
 * Custom video player via API frameworks
@@ -166,13 +166,13 @@ Silver Spring, Maryland
 _Responsibilities_
 
 * Convert experimental JSP web application from early 1990s to an operational PHP web application
-* Responsibilities include all aspects of SDLC including feasibility, analysis, design, development, testing, implementation and maintenance
+* Responsibilities include all aspects of SDLC including feasibility, analysis, design, development, testing, implementation, and maintenance
 * Produce and maintain documentation concerning all project aspects
 * Hardware and software analysis
 * User interviews
 * Web application development with PHP, Javascript, HTML/XHTML and CSS
 * Database design and management
-* Apache web server design, configuration and management
+* Apache web server design, configuration, and management
 
 _Achievements_
 
@@ -186,18 +186,18 @@ Thurmont, Maryland
 
 _Responsibilities_
 
-* Responsible for all aspects of the SDLC including feasibility, analysis, design, development, testing, implementation and maintenance
+* Responsible for all aspects of the SDLC including feasibility, analysis, design, development, testing, implementation, and maintenance
 * Project feasibility and analysis with focus on streamlining company procedures and centralizing data
 * Conduct user interviews to determine project requirements
 * End-to-end web application development
-* Responsible for management, design and implementation of change requests and maintenance after implementation
+* Responsible for management, design, and implementation of change requests and maintenance after implementation
 * Responsible for day-to-day operational IT systems availability and maintenance
 * Daily interaction and communication with end-users and provide on-site support to any and all additional technical issues
 
 _Achievements_
 
 * Enterprise Resource Planning Launch
-* Conversion of quoting solutions from excel to web-based
+* Conversion of quoting solutions from Excel to web-based
 
 **Technical Support Analyst**
 January 1999 - November 2006
@@ -205,13 +205,13 @@ EPCGlobal/Bechtel Personnel and Operational Services
 
 _Responsibilities_
 
-* One of a two person team covering global Technical Support and Systems Administration from India to San Francisco
+* One of a two person team covering global technical support and systems administration from India to San Francisco
 * Frequent travel plus 24/7/365 phone support
 * Responsible for day-to-day IT systems availability and maintenance worldwide, purchasing and vendor management
 * Setup new office sites
-* Corporate Intranet development, administration and management
-* Create hardware infrastructure design specifications, purchase, implementation and maintenance
-* Proactive problem solving and time sensitive resolution
+* Corporate intranet development, administration and management
+* Create hardware infrastructure design specifications, purchase, implementation, and maintenance
+* Proactive problem solving and time-sensitive resolution
 
 _Achievements_
 
@@ -222,8 +222,8 @@ _Achievements_
 Technical Experience
 --------------------
 
-**Business Logic Languages**
-  * Node.js
+**Languages**
+  * Javascript / Node.js / NPM
   * Python
   * PHP
   * Coldfusion
@@ -232,6 +232,9 @@ Technical Experience
 
 **Web Frameworks and Libraries**
   * Riot.js
+  * Angular
+  * Backbone.js
+  * Require.js
   * Yeoman.js
   * Laravel
   * Jekyll
@@ -243,14 +246,13 @@ Technical Experience
   * Wordpress
   * vBulletin
   * Kohana
+  * jQuery
 
 **Presentation Languages**
   * HTML / XHTML
   * XML / XSLT
   * CSS
   * Javascript
-  * jQuery
-  * Backbone.js
 
 **Databases**
   * SQL
@@ -271,7 +273,7 @@ Technical Experience
   * Git
 
 **Development Styles**
-  * Waterfall Development
+  * Waterfall
   * Agile
   * RAD
 
