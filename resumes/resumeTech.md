@@ -1,9 +1,6 @@
 Joe Osborne Jr
 ==============
 
-Web Products - Design and Engineering
--------------------------------------
-
 ---------------------------                         ----------------------------
 128 Maiden Choice Lane                                       joe@haywirelabs.com
 Catonsville, Maryland 21228
