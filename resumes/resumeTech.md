@@ -1,6 +1,9 @@
 Joe Osborne Jr
 ==============
 
+Web Products - Design and Engineering
+-------------------------------------
+
 ---------------------------                         ----------------------------
 128 Maiden Choice Lane                                       joe@haywirelabs.com
 Catonsville, Maryland 21228
@@ -120,7 +123,7 @@ _Achievements_
 
 **Web Applications Developer**
 August 2010 - February 2011
-Systems Alliance, Inc.
+Systems Alliance, Inc
 Hunt Valley, Maryland
 
 _Responsibilities_
@@ -184,7 +187,7 @@ _Achievements_
 
 **IT Specialist/Web Application Development**
 November 2006 - February 2008
-Structural Systems, Inc.
+Structural Systems, Inc
 Thurmont, Maryland
 
 _Responsibilities_
@@ -205,6 +208,7 @@ _Achievements_
 **Technical Support Analyst**
 January 1999 - November 2006
 EPCGlobal/Bechtel Personnel and Operational Services
+Frederick, Maryland
 
 _Responsibilities_
 

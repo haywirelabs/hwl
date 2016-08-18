@@ -1,0 +1,113 @@
+/*
+ * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+ *
+ * CSS for making a resume with pandoc. Inspired by moderncv.
+ *
+ * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+ * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ */
+
+/* Whole document */
+body {
+    font-family: 'Rokkitt', serif;
+    font-size: x-large;
+    width: 800px;
+    margin: auto;
+    background: #eeeeee;
+    padding: 10px 10px 10px 10px;
+}
+
+/*
+.title {
+    display: none;
+}
+*/
+
+/* Title of the resume */
+h1 {
+    font-family: 'Dosis', Helvetica, Arial, sans-serif;
+    font-size: 55px;
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+/* Titles of categories */
+h2 {
+    font-family: 'Dosis', Helvetica, Arial, sans-serif;
+    color: #2C4B5D;
+}
+/* There is a bar just before each category */
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 16%;
+    height: 10px;
+    background-color: #3E7B97;
+}
+
+/* Definitions */
+table {
+    width: 92%;
+}
+em {
+    font-style: normal;
+    font-size: large;
+    color: #222222;
+}
+p strong {
+    color: #16394C;
+}
+dt {
+    float: left;
+    clear: left;
+    width: 25%;
+    font-weight: bold;
+}
+dd {
+    margin-left: 25%;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: center
+}
+
+/* Lists */
+ul {
+    margin: 5px;
+    padding: 10px;
+}
+li{
+    list-style: circle;
+}
+
+li ul{
+    padding: 0;
+    font-size: .8em;
+}
+li ul li{
+    list-style: none;
+    color: #888888;
+}
+/* Links */
+a {
+    text-decoration: none;
+    color: #397249;
+}
+a:hover, a:active {
+    background-color: #397249;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #333;
+}
+
+/* Horizontal separators */
+hr {
+    color: #A6A6A6;
+}
