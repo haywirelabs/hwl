@@ -24,12 +24,14 @@ _Responsibilities_
     * code reviews
     * technical documentation
 * Inspire team members to define data-driven and customer-focused initiatives
+* Create and provide solutions for Web Analytics and business reporting on user behaviors
 
 _Achievements_
 
 * Marketing Solutions across multiple brands
 * Accounts and single sign-on
 * Mods - Bringing Fallout 4 User Generated Content to the console experience
+* Introduced process for utilizing Web Analytics for defining data-driven solutions for front-end design
 * Community
 
 _Technologies_
@@ -64,6 +66,12 @@ _Responsibilities_
 * Define the context and intent for the Bethesda.net Web front-end systems from concept to launch
 * Act as the business point-of-contact for web initiatives and projects
 * Interact with company stakeholders to define business requirements for purposes of implementation into feature development
+* Design User Flows and define global design patterns for Enterprise distribution and use
+* Design User Page Interactions to improve customer experience as well as increase conversion rates
+* Design System Integration interactions between front-end user experience and back-end processing systems
+* Identification and documentation of product needs and dependencies
+* Create Feature Design Documents for defining new business requirements
+* Perform role definition and business justifications for new hires for the Web Team - Design and Technology Roles
 * Manage internal and external design and development resources to develop multiple ongoing initiatives
     * contracts negotiation
     * resource management and allocation
@@ -72,7 +80,9 @@ _Responsibilities_
 _Achievements_
 
 * Infrastructure for a new business entity
-* Identification and documentation of product needs and dependencies
+* Version 1 Responsive Designs for all front-end products
+* Enterprise Web Components - Reuseable and sharable web components for use across multiple sites/brands
+* Enterprise Content Strategy and Information and Data Architecture for front-end and back-end systems
 * Product integration across functional components
 * Product launch and cadence production
 * Javascript Single Page Applications (SPA) in the enterprise environment
@@ -166,9 +176,10 @@ _Responsibilities_
 * Lead Continuous Integration team for Centers for Medicare & Medicaid Services (CMS) Healthcare.gov LEARN project
 * Act as point-of-contact regarding Continuous Integration, automated testing, application deployment, and technical security issues
 * Development on supporting projects on an ad hoc basis
-* Software architecture, design and development on the Aquilent Olympus product from concept to V1.0 release
+* Software architecture, UX/UI design and development on the Aquilent Olympus product from concept to V1.0 release
 * Work with stakeholders to identify User Interface (UI) and functional solutions for managing government-industry cloud environments, focusing on Amazon Web Services (AWS)
 * Systems analysis and development for Medicaid.gov
+* Deliver responsive and accessible front-end web applications - 508 Compliant and WAI-ARIA
 
 _Achievements_
 
@@ -281,6 +292,8 @@ _Responsibilities_
 * Custom web application development on custom-built Coldfusion/Java-backed Enterprise CMS
 * End-to-end SiteExecutive CMS Development
 * Conduct stakeholder interviews to identify needs
+* User Experience (UX) Design, Sketch and Wireframing for customer-requested custom interactions
+*
 
 _Achievements_
 
