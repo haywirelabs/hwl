@@ -34,11 +34,12 @@ _Achievements_
 
 _Technologies_
 
-* HTML / XHTML
+* HTML5
 * CSS / SASS / Foundation - Responsive Design
 * Javascript / Node.js / NPM
     * Riot.js
     * Express.js
+* JSON
 * Nginx
 * Python / Django
 * AWS
@@ -47,7 +48,8 @@ _Technologies_
     * Cloudfront
     * Lambda
 * Drone
-* Git / GitHub
+* Git
+    * GitHub
 * Mac OSX
 * Atlassian
      * Confluence
@@ -77,12 +79,13 @@ _Achievements_
 
 _Technologies_
 
-* HTML / XHTML
+* HTML5
 * HTTP2
 * CSS / SASS / Foundation - Responsive Design
 * Javascript / Node.js / NPM - ES6 / ES2015
     * Riot.js
     * Express.js
+* JSON
 * Nginx
 * Python / Django
 * AWS
@@ -91,7 +94,8 @@ _Technologies_
     * Cloudfront
     * Lambda
 * Drone
-* Git / GitHub
+* Git
+    * GitHub
 * Mac OSX
 * Atlassian
      * Confluence
@@ -117,13 +121,15 @@ _Achievements_
 
 _Technologies_
 
-* HTML / XHTML
+* HTML5 / XHTML
 * CSS / SASS Foundation / Bootstrap - Responsive Design
 * Javascript / Node.js / NPM
     * Angular.js
     * Express.js
     * Yeoman.js
     * jQuery
+* JSON
+* Markdown
 * MongoDb
 * Sqlite3
 * AWS
@@ -131,7 +137,9 @@ _Technologies_
     * EC2
     * EBS
 * Drone
-* Git / GitHub / GitLab
+* Git
+    * GitHub
+    * GitLab
 * Perforce / P4
 * PHP
     * Laravel
@@ -166,6 +174,7 @@ _Achievements_
 
 * Healthcare.gov - Year one enrollment
 * Healthcare.gov - Automated testing and deployment for front-end applications
+* Healthcare.gov - Front-end Security and OWASP
 * Olympus - Government cloud at the FDA
 * Medicaid.gov - Rhythmyx Percussion and managing policy document content
 
@@ -178,6 +187,7 @@ _Technologies_
     * Backbone.js
     * Require.js
     * jQuery
+* JSON / JSONP
 * Ruby
     * Jekyll
 * Java
@@ -194,7 +204,9 @@ _Technologies_
 * MS SQL
 * Apache Web Server
 * Nginx
-* Git / GitHub
+* Git
+    * GitHub
+    * GitHub Enterprise
 * Mac OSX
 * Linux
     * Ubuntu
@@ -230,6 +242,7 @@ _Achievements_
 _Technologies_
 
 * HTML / XHTML
+* XML
 * CSS
 * Javascript
     * jQuery
