@@ -3,7 +3,7 @@ Joe Osborne Jr
 
 ---------------------------                         ----------------------------
 128 Maiden Choice Lane                                       joe@haywirelabs.com
-Catonsville, Maryland 21228                       [github.com/haywirelabs](https://github.com/haywirelabs)
+Catonsville, Maryland 21228                               github.com/haywirelabs
 United States                                                     (410) 709-8665
 ---------------------------                         ----------------------------
 
@@ -48,6 +48,9 @@ _Technologies_
     * Lambda
 * Drone
 * Git / GitHub
+* Mac OSX
+* Atlassian
+     * Confluence
 
 **Product Owner**
 February 2015 - September 2015
@@ -89,6 +92,9 @@ _Technologies_
     * Lambda
 * Drone
 * Git / GitHub
+* Mac OSX
+* Atlassian
+     * Confluence
 
 **Senior Software Engineer**
 July 2014 - February 2015
@@ -131,8 +137,15 @@ _Technologies_
     * Laravel
     * CodeIgniter
     * Kohana
+* Atlassian
+     * Confluence
+     * Jira
 * MySQL
 * MariaDB
+* Mac OSX
+* Linux
+    * Ubuntu
+    * CentOS
 * Nginx
 
 **Senior Technical Consultant**
@@ -169,10 +182,27 @@ _Technologies_
     * Jekyll
 * Java
     * Rhythmyx Percussion CMS
+* Atlassian
+     * Confluence
+     * Jira
+     * Bamboo
+* AWS
+     * EC2
+     * EBS
+     * S3
+* Akamai
 * MS SQL
 * Apache Web Server
 * Nginx
 * Git / GitHub
+* Mac OSX
+* Linux
+    * Ubuntu
+    * Fedora
+    * Debian
+    * CentOS
+    * Kali
+    * Arch
 
 **Senior Developer/Architect**
 February 2011 - March, 2013
@@ -189,7 +219,7 @@ _Responsibilities_
 
 _Achievements_
 
-* Managing Drupal in a high-scale, high-visibility public space.
+* ed.gov - Managing Drupal in a high-scale, high-visibility public space.
     * layered caching solutions
     * planning ahead for the cloud
 * Upgraded all version control systems from CVS to Git
@@ -198,6 +228,35 @@ _Achievements_
 * Custom archiving features
 
 _Technologies_
+
+* HTML / XHTML
+* CSS
+* Javascript
+    * jQuery
+    * jQuery Mobile - Responsive Design
+* PHP
+    * Drupal
+    * Wordpress
+    * CodeIgniter
+* Coldfusion
+* Java
+    * Websphere
+* Atlassian
+     * Confluence
+     * Jira
+* Akamai
+* MySQL
+* Apache Web Server
+* Varnish
+* Nginx
+* Linux
+    * Ubuntu
+    * Fedora
+    * Debian
+    * CentOS
+* Mac OSX
+* Git / GitHub
+* CVS
 
 **Web Applications Developer**
 August 2010 - February 2011
@@ -219,6 +278,25 @@ _Achievements_
 * Flagler College web design
 
 _Technologies_
+
+* HTML / XHTML
+* CSS
+* Javascript
+    * jQuery
+    * jQuery Mobile - Responsive Design
+* Coldfusion
+    * SiteExecutive CMS
+* Java
+* Akamai
+* MS SQL
+* Apache Web Server
+* IIS
+* Nginx
+* Linux
+    * Ubuntu
+    * CentOS
+* Mac OSX
+* Subversion
 
 **Web Projects Manager/Senior Web Developer**
 August 2008 - June 2010
@@ -246,6 +324,29 @@ _Achievements_
 
 _Technologies_
 
+* HTML / XHTML
+* CSS
+* Javascript
+    * jQuery
+    * YUI
+    * Dojo
+    * MooTools
+* PHP
+    * Drupal
+    * Wordpress
+    * CodeIgniter
+* Ruby
+    * LovdByLess
+* Coldfusion
+* MySQL
+* Apache Web Server
+* Nginx
+* Linux
+    * Ubuntu
+    * CentOS
+* Mac OSX
+* Subversion
+
 **Webmaster/Web Programmer**
 February 2008 - August 2008
 Earth Resources Technology/National Oceanic and Atmospheric Administration
@@ -268,6 +369,22 @@ _Achievements_
 * NOAA/FAA Wind Speeds Project
 
 _Technologies_
+
+* HTML / XHTML
+* CSS
+* Javascript
+    * jQuery
+    * YUI
+    * Dojo
+    * MooTools
+* PHP
+* MySQL
+* MS SQL
+* PostgreSQL
+* Apache Web Server
+* Linux
+    * CentOS
+* Mac OSX
 
 **IT Specialist/Web Application Development**
 November 2006 - February 2008
@@ -292,6 +409,19 @@ _Achievements_
 
 _Technologies_
 
+* HTML / XHTML
+* CSS
+* Javascript
+    * jQuery
+* PHP
+* Python
+* MySQL
+* Apache Web Server
+* IIS
+* Linux
+    * CentOS
+* Windows Server 2000
+
 **Technical Support Analyst**
 January 1999 - November 2006
 EPCGlobal/Bechtel Personnel and Operational Services
@@ -314,6 +444,15 @@ _Achievements_
 * EPCjobs.com launch
 
 _Technologies_
+
+* HTML / XHTML
+* CSS
+* Javascript
+    * jQuery
+* Java
+* Apache Web Server
+* IIS
+* Windows Server 2000
 
 Education
 ---------
