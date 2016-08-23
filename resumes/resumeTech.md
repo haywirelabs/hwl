@@ -3,7 +3,7 @@ Joe Osborne Jr
 
 ---------------------------                         ----------------------------
 128 Maiden Choice Lane                                       joe@haywirelabs.com
-Catonsville, Maryland 21228
+Catonsville, Maryland 21228                       [github.com/haywirelabs](https://github.com/haywirelabs)
 United States                                                     (410) 709-8665
 ---------------------------                         ----------------------------
 
@@ -32,6 +32,23 @@ _Achievements_
 * Mods - Bringing Fallout 4 User Generated Content to the console experience
 * Community
 
+_Technologies_
+
+* HTML / XHTML
+* CSS / SASS / Foundation - Responsive Design
+* Javascript / Node.js / NPM
+    * Riot.js
+    * Express.js
+* Nginx
+* Python / Django
+* AWS
+    * Elastic Beanstalk
+    * S3
+    * Cloudfront
+    * Lambda
+* Drone
+* Git / GitHub
+
 **Product Owner**
 February 2015 - September 2015
 Bethesda.net
@@ -55,6 +72,24 @@ _Achievements_
 * Product launch and cadence production
 * Javascript Single Page Applications (SPA) in the enterprise environment
 
+_Technologies_
+
+* HTML / XHTML
+* HTTP2
+* CSS / SASS / Foundation - Responsive Design
+* Javascript / Node.js / NPM - ES6 / ES2015
+    * Riot.js
+    * Express.js
+* Nginx
+* Python / Django
+* AWS
+    * Elastic Beanstalk
+    * S3
+    * Cloudfront
+    * Lambda
+* Drone
+* Git / GitHub
+
 **Senior Software Engineer**
 July 2014 - February 2015
 Zenimax Online Studios
@@ -74,8 +109,34 @@ _Achievements_
     * release management process
 * Organize developer community events to share and improve team knowledge
 
+_Technologies_
+
+* HTML / XHTML
+* CSS / SASS Foundation / Bootstrap - Responsive Design
+* Javascript / Node.js / NPM
+    * Angular.js
+    * Express.js
+    * Yeoman.js
+    * jQuery
+* MongoDb
+* Sqlite3
+* AWS
+    * S3
+    * EC2
+    * EBS
+* Drone
+* Git / GitHub / GitLab
+* Perforce / P4
+* PHP
+    * Laravel
+    * CodeIgniter
+    * Kohana
+* MySQL
+* MariaDB
+* Nginx
+
 **Senior Technical Consultant**
-May 2012 - July 2014
+May 2013 - July 2014
 Aquilent
 Laurel, Maryland
 
@@ -94,6 +155,24 @@ _Achievements_
 * Healthcare.gov - Automated testing and deployment for front-end applications
 * Olympus - Government cloud at the FDA
 * Medicaid.gov - Rhythmyx Percussion and managing policy document content
+
+_Technologies_
+
+* HTML / XHTML
+* CSS / SASS
+* Javascript / Node.js / NPM
+    * Angular
+    * Backbone.js
+    * Require.js
+    * jQuery
+* Ruby
+    * Jekyll
+* Java
+    * Rhythmyx Percussion CMS
+* MS SQL
+* Apache Web Server
+* Nginx
+* Git / GitHub
 
 **Senior Developer/Architect**
 February 2011 - March, 2013
@@ -118,6 +197,8 @@ _Achievements_
 * Document management and presentation with Drupal
 * Custom archiving features
 
+_Technologies_
+
 **Web Applications Developer**
 August 2010 - February 2011
 Systems Alliance, Inc
@@ -134,8 +215,10 @@ _Achievements_
 * Walmart and Sam's Club - Standard Operating Procedure design and development
 * AMU/APU - Managing scale with page performance
 * Johns Hopkins' physicians guide
-* Mount St. Mary's University design
-* Flagler College design
+* Mount St. Mary's University web design
+* Flagler College web design
+
+_Technologies_
 
 **Web Projects Manager/Senior Web Developer**
 August 2008 - June 2010
@@ -161,6 +244,8 @@ _Achievements_
 * Social network launch
 * Custom video player via API frameworks
 
+_Technologies_
+
 **Webmaster/Web Programmer**
 February 2008 - August 2008
 Earth Resources Technology/National Oceanic and Atmospheric Administration
@@ -182,6 +267,8 @@ _Achievements_
 * National Weather Service (NWS) Hazcollect Project Launch
 * NOAA/FAA Wind Speeds Project
 
+_Technologies_
+
 **IT Specialist/Web Application Development**
 November 2006 - February 2008
 Structural Systems, Inc
@@ -200,7 +287,10 @@ _Responsibilities_
 _Achievements_
 
 * Enterprise Resource Planning Launch
+* Altiris Hardware management system
 * Conversion of quoting solutions from Excel to web-based
+
+_Technologies_
 
 **Technical Support Analyst**
 January 1999 - November 2006
@@ -223,63 +313,7 @@ _Achievements_
 * VoIP solutions for all international offices
 * EPCjobs.com launch
 
-Technical Experience
---------------------
-
-**Business Logic Languages**
-  * Javascript / Node.js / NPM
-  * Python
-  * PHP
-  * Coldfusion
-  * Ruby
-  * Java / JSP
-
-**Web Frameworks and Libraries**
-  * Riot.js
-  * Angular
-  * Backbone.js
-  * Require.js
-  * Yeoman.js
-  * Laravel
-  * Jekyll
-  * Percussion
-  * SiteExecutive
-  * CodeIgniter
-  * Drupal
-  * Ruby on Rails
-  * Wordpress
-  * vBulletin
-  * Kohana
-  * jQuery
-
-**Presentation Languages**
-  * HTML / XHTML
-  * XML / XSLT
-  * CSS
-  * Javascript
-
-**Databases**
-  * SQL
-  * MySQL
-  * MS SQL
-  * PostgreSQL
-  * Sqlite3
-
-**Web Servers**
-  * Apache Web Server
-  * IIS
-  * Mongrel
-  * nginx
-  * express
-
-**Source / Version Control**
-  * Subversion
-  * Git
-
-**Development Styles**
-  * Waterfall
-  * Agile
-  * RAD
+_Technologies_
 
 Education
 ---------
