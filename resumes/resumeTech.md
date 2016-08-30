@@ -12,7 +12,7 @@ Experience
 
 **Technical Lead**
 September 2015 - August 2016
-Bethesda.net
+ZeniMax Media Inc / Bethesda.net
 Rockville, Maryland
 
 _Responsibilities_
@@ -28,11 +28,11 @@ _Responsibilities_
 
 _Achievements_
 
-* Marketing Solutions across multiple brands
+* Marketing solutions across multiple brands
 * Accounts and single sign-on
 * Mods - Bringing Fallout 4 User Generated Content to the console experience
 * Introduced process for utilizing Web Analytics for defining data-driven solutions for front-end design
-* Community
+* Community planning and migration
 
 _Technologies_
 
@@ -58,7 +58,7 @@ _Technologies_
 
 **Product Owner**
 February 2015 - September 2015
-Bethesda.net
+ZeniMax Media Inc / Bethesda.net
 Rockville, Maryland
 
 _Responsibilities_
@@ -112,7 +112,7 @@ _Technologies_
 
 **Senior Software Engineer**
 July 2014 - February 2015
-Zenimax Online Studios
+ZeniMax Media Inc / Zenimax Online Studios
 Hunt Valley, Maryland
 
 _Responsibilities_
